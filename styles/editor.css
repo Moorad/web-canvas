@@ -1,0 +1,16 @@
+canvas {
+	display: inline-block;	
+	border: 1px solid black;
+	width: 720px;
+	height: 720px;
+}
+
+canvas:hover {
+	cursor: crosshair;
+}
+
+.tool-bar {
+	float: left;
+	width: 25px;
+	height: 100vh;
+}
